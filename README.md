@@ -1,5 +1,5 @@
 # EFMC
-Code to accompany "Practical Cheminformatics With Open Source Software"
+Code to accompany "Practical Cheminformatics With Open Source Software". The links below will launch the Jupyter notebooks on Google Colab. 
 
 <a href="https://colab.research.google.com/github/PatWalters/EFMC/blob/main/tutorial_01_rdkit.ipynb" target="_blank"> Tutorial 1</a> - A quick introduction to the RDKit and Jupyter notebooks
 
