@@ -1,7 +1,7 @@
 # EFMC
 Code to accompany "Practical Cheminformatics With Open Source Software"
 
-[Tutorial 1](https://colab.research.google.com/github/PatWalters/EFMC/blob/main/tutorial_01_rdkit.ipynb) - A quick introduction to the RDKit and Jupyter notebooks
+<a href="https://colab.research.google.com/github/PatWalters/EFMC/blob/main/tutorial_01_rdkit.ipynb"> Tutorial 1</a> A quick introduction to the RDKit and Jupyter notebooks
 
 [Tutorial 2](https://colab.research.google.com/github/PatWalters/EFMC/blob/main/tutorial_02_classification_model.ipynb) - Building a classification model
 
